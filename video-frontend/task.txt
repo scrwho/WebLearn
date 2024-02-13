@@ -1,0 +1,81 @@
+    1  ls
+    2  pwd
+    3  git pull
+    4  python speach\ translation.py 
+    5  python speach\ translation.py 
+    6  cls
+    7  clear
+    8  pip install speech_recognition
+    9  pip install googletrans
+   10  pip install playsound
+   11  pip install python-vlc
+   12  pip install pyaudio
+   13  pip install SpeechRecognition langdetect googletrans
+   14  clear
+   15  python -version
+   16  python --version
+   17  python speach\ translation.py 
+   18  git clone https://github.com/bardadon/Investing_Platform.git
+   19  git init
+   20  [200~git add README.md~
+   21  git add README.md
+   22  git commit -m "first commit"
+   23  git config --get user.name
+   24  git config --global user.email "scrwho@gmail.com"
+   25  git config --global user.name "scrwho"
+   26  echo "# openctd-ifoodis" >> README.md
+   27  git init
+   28  git add README.md
+   29  git commit -m "first commit"
+   30  git branch -M main
+   31  git remote add origin
+   32  git remote add origin https://github.com/scrwho/openctd-ifoodis..git
+   33  git push -u origin main
+   34  git remote add origin https://github.com/scrwho/openctd-ifoodis.git
+   35  git push -u origin main
+   36  git clone https://github.com/scrwho/openctd-ifoodis.git
+   37  git status
+   38  ls
+   39  cd openctd-ifoodis
+   40  git status
+   41  git add .
+   42  git commit -m "Initial commit"
+   43  git push
+   44  git status
+   45  git status
+   46  git add .
+   47  git commit -m "commit 1"
+   48  git add .
+   49  git commit -m "commit 1"
+   50  git push
+   51  git status
+   52  git add .
+   53  git commit -m "commit 2"
+   54  git push
+   55  ls
+   56  ped
+   57  pwd
+   58  git status
+   59  git add .
+   60  git commit -m "commit 3"
+   61  git push
+   62  git clone https://github.com/nickgammon/arduino_sketches.git
+   63  spark shell
+   64  path
+   65  ls
+   66  git clone https://github.com/scastiel/nextjs-course-template.git
+   67  pwd
+   68  cd ..
+   69  cd ..
+   70  pwd
+   71  git clone git@github.com:darshilparmar/udacity-dataeng-airflow.git
+   72  git clone git@github.com:darshilparmar/the-complete-react-native-and-redux-course.git
+   73  git clone https://github.com/darshilparmar/the-complete-react-native-and-redux-course.git
+   74  git clone https://github.com/darshilparmar/Coursera.git
+   75  wget https://github.com/DataTalksClub/nyc-tlc-data/releases/download/green/green_tripdata_2019-09.csv.gz
+   76  git init
+   77  git add .
+   78  git commit -m "Initial commit"
+   79  git remote add origin https://github.com/scrwho/WebLearn.git
+   80  git push -u origin master
+   81  history > task.txt
